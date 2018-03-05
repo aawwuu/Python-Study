@@ -1,0 +1,5 @@
+https://www.ibm.com/developerworks/cn/linux/l-cn-pythondebugger/
+介绍了使用 pdb  PyCharm  PyDev 日志功能达到调试的目的
+
+
+import pdb; pdb.set_trace()
